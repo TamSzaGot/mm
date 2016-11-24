@@ -44,7 +44,7 @@
     [:div {:class "skv-topnav-middlecol"}
       [:div {:class ""}
         [:div#logobutton
-          [:img {:alt "Min Mynighetspost logotype" :src "https://minmyndighetspost.se/ez/minameddelanden_anvandare/images/logotyp.png"}]
+          [:img {:alt "Min Mynighetspost logotype" :src "images/logotyp.png"}]
         ]
       ]
     ]
